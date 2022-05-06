@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, D:/DE/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/ex04.v
+source_file = 1, D:/DE/Experiment--04-Implementation-of-combinational-logic-using-universal-gates-/db/ex04.cbx.xml
+design_name = ex04
+instance = comp, \F1~output , F1~output, ex04, 1
+instance = comp, \F2~output , F2~output, ex04, 1
+instance = comp, \F3~output , F3~output, ex04, 1
+instance = comp, \F~output , F~output, ex04, 1
+instance = comp, \A~input , A~input, ex04, 1
+instance = comp, \B~input , B~input, ex04, 1
+instance = comp, \C~input , C~input, ex04, 1
+instance = comp, \F1~0 , F1~0, ex04, 1
+instance = comp, \D~input , D~input, ex04, 1
+instance = comp, \F2~0 , F2~0, ex04, 1
+instance = comp, \F~0 , F~0, ex04, 1

@@ -1,0 +1,13 @@
+|ex04
+A => F3.IN1
+A => F2.IN1
+A => F1.IN1
+B => F3.IN0
+B => F1.IN0
+C => F1.IN1
+C => F3.IN1
+C => F2.IN0
+D => F2.IN1
+F <= F.DB_MAX_OUTPUT_PORT_TYPE
+
+

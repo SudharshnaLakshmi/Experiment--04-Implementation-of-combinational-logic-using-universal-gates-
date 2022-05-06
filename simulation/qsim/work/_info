@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\DE\Experiment--04-Implementation-of-combinational-logic-using-universal-gates-\simulation\qsim
+vex04
+Z1 Iiz_QVD0RH9g[KbclVkm2n2
+Z2 VPiBHI?1f?lQ:S5UN]ReFj1
+Z3 dD:\DE\Experiment--04-Implementation-of-combinational-logic-using-universal-gates-\simulation\qsim
+Z4 w1651746878
+Z5 8ex04.vo
+Z6 Fex04.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|ex04.vo|
+Z9 o-work work -O0
+!i10b 1
+Z10 !s100 ZU4Vg8OW`=A?@Ll[gnGRm2
+!s85 0
+Z11 !s108 1651746879.807000
+Z12 !s107 ex04.vo|
+!s101 -O0
+vex04_vlg_check_tst
+!i10b 1
+!s100 QfTTY49gelJMn8W=XaPS83
+I<Wnd:nLcBHbEf9_>jj9TE2
+Z13 V=]<geNX2EAi1Ck8P_O8XD2
+R3
+Z14 w1651746877
+Z15 8Waveform2.vwf.vt
+Z16 FWaveform2.vwf.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z17 !s108 1651746879.932000
+Z18 !s107 Waveform2.vwf.vt|
+Z19 !s90 -work|work|Waveform2.vwf.vt|
+!s101 -O0
+R9
+vex04_vlg_sample_tst
+!i10b 1
+!s100 ?klLVhF>:3lDZ9M?lJ?D00
+IX>WjMObMmOlA4eSgDoEzZ0
+Z20 VcQ4F]jY>F`lMk<73QboF62
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9
+vex04_vlg_vec_tst
+!i10b 1
+!s100 >^CP^fY;7_ON7icjb?bZP1
+InBf2C?l>;MEkQEK1UKTUP0
+Z21 V@;Xd_Ngc8F4J84EBLeQfN0
+R3
+R14
+R15
+R16
+Z22 L0 158
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R9

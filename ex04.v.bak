@@ -1,0 +1,7 @@
+input A,B,C,D;
+output F1,F2,F3,F;
+assign F1=(C & ~B &A);
+assign F2=(D & ~C & A);
+assign F3=(C & ~B & A);
+assign F=((F1|F2|F3));
+endmodule
