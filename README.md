@@ -80,4 +80,4 @@ endmodule
 ![Output](./nort.png)
 
 ## Result:
- 
+ Implementation of the given logic function using NAND and NOR gates is done and verification its operation in Quartus using Verilog programming is carried out sucessfully.
